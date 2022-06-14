@@ -1,0 +1,35 @@
+.img_product{
+    width: 30rem;
+    height: 20rem;
+}
+.name{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.name_product{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    text-align: center;
+}
+.boton{
+    border-radius: 0.7rem;
+    height: 2.5rem;
+    width: 9.5rem;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    color: aliceblue;
+    background-color: rgb(226, 51, 51);
+    justify-items: center;
+    margin-left: 10rem;
+    cursor: pointer;
+}
+.boton:hover{
+    background-color: rgb(110, 3, 3);
+   
+}
+.columna_products{
+    display: flex;
+}
